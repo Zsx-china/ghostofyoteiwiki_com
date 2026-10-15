@@ -1,0 +1,383 @@
+{
+  "site": {
+    "name": "Moonfrost Wiki",
+    "shortName": "Moonfrost",
+    "tagline": "Fan-Made Moonfrost Guide",
+    "description": "Your ultimate Moonfrost wiki resource. Complete guides, active codes, farming tips, villager relationships, building layouts, and everything you need as a Frost Hunter on Steam.",
+    "legal": "Moonfrost is developed by Oxalis Games and published on Steam and Epic Games. This is an independent fan project.",
+    "legalNotice": "moonfrost.org is not affiliated with or endorsed by Oxalis Games."
+  },
+  "nav": {
+    "guide": "Guides",
+    "platforms": "Platforms",
+    "release": "Release",
+    "characters": "Characters",
+    "farming": "Farming",
+    "building": "Building",
+    "reviews": "Reviews",
+    "blockchain": "Blockchain"
+  },
+  "home": {
+    "meta": {
+      "title": "Moonfrost Wiki — Cozy Life-Sim RPG Guide, Codes & Tips",
+      "description": "Your ultimate Moonfrost wiki resource. Complete guides, active codes, farming tips, villager relationships, building layouts, and everything you need as a Frost Hunter on Steam."
+    },
+    "hero": {
+      "eyebrow": "Fan-Made Community Wiki",
+      "title": "Moonfrost Wiki",
+      "description": "In a world shattered by meteor storms, become a Frost Hunter and rebuild a broken village. Farm, fish, craft, befriend charming neighbours, and uncover the dark truth behind the mysterious Second Moon.",
+      "primaryCta": "Wishlist on Steam",
+      "secondaryCta": "Browse Guides",
+      "stats": [
+        "Launched Oct 2026",
+        "Early Access",
+        "50K+ Wishlists",
+        "11 Villagers",
+        "50% Story Mode"
+      ],
+      "videoTitle": "Official Trailer",
+      "videoButton": "Watch Trailer",
+      "videoDescription": "Moonfrost on Steam — restore a shattered village, befriend villagers, and uncover the truth behind the Second Moon."
+    },
+    "updates": {
+      "eyebrow": "Recently added",
+      "title": "New field notes",
+      "browse": "Browse guides"
+    },
+    "categories": {
+      "title": "Find what you need",
+      "description": "A practical guide to check before you head back into the game.",
+      "items": [
+        {
+          "title": "Guide",
+          "description": "Story context, combat basics, and practical planning.",
+          "href": "/guide"
+        }
+      ]
+    },
+    "aboutGame": {
+      "title": "What is Moonfrost?",
+      "paragraphs": [
+        "Moonfrost is a premium cosy life-sim RPG developed by Oxalis Games, set in a world devastated by constant meteor storms called the Frost Fall. As a Frost Hunter, you harness the power of these icy meteors to rebuild a shattered village.",
+        "Featuring handcrafted pixel art, dynamic lighting, and a haunting original soundtrack, Moonfrost blends farming, fishing, crafting, cooking, and relationship building with a compelling narrative mystery — uncovering the truth behind the ominous Second Moon."
+      ],
+      "stats": [
+        {
+          "label": "Developer",
+          "value": "Oxalis Games"
+        },
+        {
+          "label": "Platform",
+          "value": "PC (Steam, Epic)"
+        },
+        {
+          "label": "Genre",
+          "value": "Cozy Life-Sim RPG"
+        },
+        {
+          "label": "Release Date",
+          "value": "12 Oct 2026"
+        },
+        {
+          "label": "Wishlists",
+          "value": "50,000+"
+        },
+        {
+          "label": "NPCs",
+          "value": "11 Villagers"
+        },
+        {
+          "label": "Story Content",
+          "value": "50% in Early Access"
+        }
+      ],
+      "cta": "Explore All Guides"
+    },
+    "faq": {
+      "title": "Frequently Asked Questions",
+      "description": "Quick answers to the most common questions about Moonfrost.",
+      "items": [
+        {
+          "question": "What is Moonfrost?",
+          "answer": "Moonfrost is a premium cosy life-sim RPG developed by Oxalis Games. Players take on the role of a Frost Hunter, harnessing the power of icy meteors to rebuild a shattered village through farming, fishing, crafting, cooking, and relationship building."
+        },
+        {
+          "question": "What platforms is Moonfrost available on?",
+          "answer": "Moonfrost is available on Steam and Epic Games Store for PC, with Steam Deck verification. It launched into Early Access on 12 October 2026."
+        },
+        {
+          "question": "How much story content is in the Early Access release?",
+          "answer": "The Early Access release includes the first half of the main storyline, the first 20 temple rooms, and several restorable village businesses. The full story and remaining content are planned for the version 1.0 release."
+        },
+        {
+          "question": "Are there redeem codes for Moonfrost?",
+          "answer": "No official redeem codes or a code redemption system have been verified on the official Moonfrost website or Steam listing. This wiki will be updated if codes become available."
+        },
+        {
+          "question": "How many villagers can I befriend in Early Access?",
+          "answer": "Moonfrost Early Access includes 11 befriendable villagers, with friendship capped at level 3. All friendship events and romance options are planned for the full version 1.0 release."
+        },
+        {
+          "question": "Does Moonfrost support multiplayer?",
+          "answer": "Moonfrost is a single-player experience. Multiplayer features are not listed in the official game description or Early Access release notes."
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "Ready to Master Moonfrost?",
+      "description": "From your first frost shard to endgame village restoration, our community wiki has everything you need to thrive as a Frost Hunter.",
+      "button": "Read the Beginner Guide"
+    },
+    "start": {
+      "eyebrow": "Start Here",
+      "title": "Your Moonfrost Journey",
+      "cards": [
+        {
+          "number": "1",
+          "title": "Beginner Guide",
+          "description": "Learn the basics of farming, fishing, crafting, and village restoration. Get your first steps as a Frost Hunter right."
+        },
+        {
+          "number": "2",
+          "title": "Farming & Resources",
+          "description": "Crop schedules, fishing spots, mining nodes, and resource gathering to fuel your village rebuilding."
+        },
+        {
+          "number": "3",
+          "title": "Villagers & Relationships",
+          "description": "Befriend all 11 NPCs, raise friendship levels, unlock heart events, and discover each villager's personal storyline."
+        },
+        {
+          "number": "4",
+          "title": "Building & Decoration",
+          "description": "Build Mode deep dive — walls, roofs, furniture blueprints, village restoration projects, and home customisation tips."
+        }
+      ]
+    },
+    "explore": {
+      "title": "Explore Moonfrost Guides",
+      "description": "Eight focused guide hubs covering every stage of your Moonfrost journey — from first steps as a Frost Hunter to village restoration and endgame content.",
+      "modules": [
+        {
+          "order": 1,
+          "name": "Moonfrost Beginner Guide",
+          "description": "Start your Moonfrost adventure with an overview of farming, fishing, crafting, and village restoration. Learn which features are available in Early Access before planning your progress through the story.",
+          "href": "/beginner-guide",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "The Early Access release includes the first half of the main storyline."
+            },
+            {
+              "label": "2",
+              "detail": "Discover farming, fishing, crafting, and cooking as part of village life."
+            },
+            {
+              "label": "3",
+              "detail": "Restore village businesses and build homes for yourself and selected villagers."
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "name": "Moonfrost Codes",
+          "description": "Check the official information available about Moonfrost codes before looking for rewards. No redeem codes or redemption system were verified on the official website or Steam listing during this research.",
+          "href": "/codes",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "Official Code Status",
+              "detail": "No official redeem code was verified in the sources checked.",
+              "badge": "No Verified Codes"
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "name": "Moonfrost Village Restoration Guide",
+          "description": "Explore how rebuilding the village fits into Moonfrost's story and daily activities. Official descriptions highlight cleaning streets, restoring old buildings, and designing homes for villagers.",
+          "href": "/village-restoration",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Restore Village Businesses",
+              "detail": "Several village businesses can be restored in Early Access."
+            },
+            {
+              "label": "Clean Streets and Restore Buildings",
+              "detail": "Help bring the village back to life through the restoration activities described on the official website."
+            },
+            {
+              "label": "Create Villager Homes",
+              "detail": "Build and decorate homes for selected villagers."
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "name": "Moonfrost Farming Guide",
+          "description": "Discover farming alongside the other everyday activities confirmed for Moonfrost. Use this overview to understand how growing crops, fishing, crafting, and cooking fit into the game's cozy life-sim experience.",
+          "href": "/farming-guide",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Farming",
+              "detail": "Farming is one of the core activities listed in the official game description."
+            },
+            {
+              "label": "Fishing",
+              "detail": "Fishing provides another activity to explore alongside farm life."
+            },
+            {
+              "label": "Crafting and Cooking",
+              "detail": "Crafting and cooking are confirmed parts of the gameplay."
+            }
+          ]
+        },
+        {
+          "order": 5,
+          "name": "Moonfrost Temple Guide",
+          "description": "Find out how much temple content is available in Moonfrost Early Access. The official Steam listing confirms the first 20 temple rooms, with further story content planned for the full release.",
+          "href": "/temple-guide",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "20 Temple Rooms",
+              "detail": "The first 20 temple rooms are included in Early Access."
+            },
+            {
+              "label": "Early Access Story Scope",
+              "detail": "The initial release contains the first half of the main storyline."
+            },
+            {
+              "label": "Full Release Plans",
+              "detail": "The complete main storyline is planned for version 1.0."
+            }
+          ]
+        },
+        {
+          "order": 6,
+          "name": "Moonfrost Villagers Guide",
+          "description": "Learn the current scope of villager friendships in Moonfrost Early Access. The game includes 11 villagers to befriend, while the remaining friendship events and romance are planned for version 1.0.",
+          "href": "/villagers",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "11 Villagers",
+              "detail": "Early Access includes 11 villagers with friendship progression."
+            },
+            {
+              "label": "Friendship Level 3",
+              "detail": "Friendships are capped at level 3 in the Early Access release."
+            },
+            {
+              "label": "Romance Planned for 1.0",
+              "detail": "Romance and all friendship events are planned for the full release."
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Moonfrost Building Guide",
+          "description": "Explore Moonfrost's Build Mode and the decorating features available in Early Access. Construct homes wall by wall and discover hundreds of furniture and decoration blueprints for your village projects.",
+          "href": "/building-guide",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Wall-by-Wall Building",
+              "detail": "The official website describes constructing and decorating buildings with Build Mode."
+            },
+            {
+              "label": "Furniture and Decoration Blueprints",
+              "detail": "Early Access includes hundreds of furniture and decoration blueprints."
+            },
+            {
+              "label": "Homes for You and Villagers",
+              "detail": "Build your own home and homes for selected villagers."
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Moonfrost Tier List",
+          "description": "Understand the evidence available before relying on Moonfrost rankings. No official tier list was found in the sources checked, so these highlights describe confirmed activities without assigning unsupported ranks.",
+          "href": "/tier-list",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Farming and Fishing",
+              "detail": "Both activities are confirmed, but the sources checked do not establish a profitability ranking."
+            },
+            {
+              "label": "Crafting and Building",
+              "detail": "These systems are confirmed, without an official ranking of recipes or furniture."
+            },
+            {
+              "label": "Villager Friendships",
+              "detail": "The Steam listing confirms friendship limits but does not rank villagers."
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "guide": {
+    "overviewTitle": "Moonfrost Guides",
+    "overviewDescription": "Complete Moonfrost guides covering gameplay progression, mechanics, and strategies for Frost Hunters on Steam."
+  },
+  "weapons": {},
+  "bosses": {},
+  "world": {},
+  "shared": {
+    "wikiNavigation": "Wiki navigation",
+    "tableOfContents": "On this page",
+    "relatedGuides": "Related guides",
+    "readMore": "Read more",
+    "home": "Home",
+    "noGuidesAvailable": "No pages are available yet."
+  },
+  "footer": {
+    "disclaimer": "moonfrost.org is an independent Moonfrost fan wiki, not affiliated with Oxalis Games.",
+    "guides": "Guides",
+    "weapons": "Weapons",
+    "bosses": "Bosses",
+    "officialGame": "Play on Steam",
+    "youtube": "Official YouTube",
+    "developer": "Oxalis Games",
+    "about": "About",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service",
+    "copyright": "Copyright",
+    "codesTitle": "Redeem codes",
+    "noCodes": "No redeem codes are available for Moonfrost."
+  },
+  "platforms": {
+    "overviewTitle": "Platforms",
+    "overviewDescription": "Moonfrost availability on Steam, Epic Games Store, PC, and Steam Deck — everything you need to download and play."
+  },
+  "release": {
+    "overviewTitle": "Release",
+    "overviewDescription": "Moonfrost Early Access release details, trailer, demo, and update information for PC gamers."
+  },
+  "characters": {
+    "overviewTitle": "Characters",
+    "overviewDescription": "Meet the 11 villagers of Moonfrost. Learn their stories, friendship requirements, and personality traits."
+  },
+  "farming": {
+    "overviewTitle": "Farming",
+    "overviewDescription": "Crop schedules, fishing spots, and resource gathering tips for Moonfrost's cosy farming life-sim experience."
+  },
+  "building": {
+    "overviewTitle": "Building",
+    "overviewDescription": "Build Mode guides, furniture blueprints, and village decoration tips for Moonfrost's wall-by-wall construction system."
+  },
+  "reviews": {
+    "overviewTitle": "Reviews",
+    "overviewDescription": "Honest Moonfrost reviews and community reactions, covering both praise and controversy around the game."
+  },
+  "blockchain": {
+    "overviewTitle": "Blockchain",
+    "overviewDescription": "The facts behind Moonfrost's web3 history, NFT associations, and Oxalis Games' public pivot away from blockchain."
+  }
+}
