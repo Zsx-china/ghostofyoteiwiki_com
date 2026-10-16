@@ -3,21 +3,23 @@
 import { useState } from "react";
 import { X } from "lucide-react";
 import { AdBanner } from "@/components/ads/ad-banner";
+import { ADS_CONFIG } from "@/config/ads";
 
 interface StickyAdBannerProps {
-  adKey: string;
+  adKey?: string;
 }
 
 export function StickyAdBanner({ adKey }: StickyAdBannerProps) {
   const [dismissed, setDismissed] = useState(false);
 
-  if (!adKey || dismissed) return null;
+  const key = adKey ?? ADS_CONFIG["banner-320x50"]?.key ?? "";
+  if (!key || dismissed) return null;
 
   return (
     <div className="sticky top-20 z-20 py-2">
       <div className="mx-auto max-w-4xl">
         <div className="relative pr-10">
-          <AdBanner slot="banner-320x50" adKey={adKey} eager />
+          <AdBanner slot="banner-320x50" adKey={key} eager />
           <button
             onClick={() => setDismissed(true)}
             aria-label="关闭广告"
