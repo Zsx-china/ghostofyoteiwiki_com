@@ -41,7 +41,7 @@ const defaultComponents: MDXComponents = {
     </Link>
   ),
   table: ({ children }) => (
-    <div className="my-7 overflow-hidden rounded-xl border border-border bg-card">
+    <div className="my-7 overflow-x-auto rounded-xl border border-border bg-card">
       <table className="w-full text-sm">{children}</table>
     </div>
   ),
