@@ -18,12 +18,12 @@ export function StickyAdBanner({ adKey }: StickyAdBannerProps) {
   return (
     <div className="sticky top-20 z-20 py-2">
       <div className="mx-auto max-w-4xl">
-        <div className="relative pr-10">
+        <div className="relative inline-block pr-0 sm:pr-10">
           <AdBanner slot="banner-320x50" adKey={key} eager />
           <button
             onClick={() => setDismissed(true)}
             aria-label="关闭广告"
-            className="absolute right-0 top-1/2 -translate-y-1/2 rounded bg-black/60 p-1 text-white hover:bg-black/80"
+            className="absolute -right-1 -top-1 rounded bg-black/60 p-0.5 text-white hover:bg-black/80 sm:right-0 sm:top-1/2 sm:-translate-y-1/2 sm:p-1"
           >
             <X className="h-3 w-3" />
           </button>

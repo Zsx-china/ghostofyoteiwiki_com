@@ -14,15 +14,16 @@ export function AdBanner({ slot, adKey, eager }: AdBannerProps) {
   if (!key) return null;
 
   const invokeUrl = `${ADSTERRA_DOMAIN}/${key}/invoke.js`;
+  const desktopOnly = "desktopOnly" in config && config.desktopOnly;
 
   return (
-    <div className="flex justify-center">
+    <div className={desktopOnly ? "hidden justify-center sm:flex" : "flex justify-center"}>
       <iframe
         src={`/ads/${slot}.html?key=${encodeURIComponent(key)}&invoke=${encodeURIComponent(invokeUrl)}`}
         width={config.width}
         height={config.height}
         scrolling="no"
-        style={{ border: "none" }}
+        style={{ border: "none", maxWidth: "100%" }}
         loading={eager ? "eager" : "lazy"}
       />
     </div>
