@@ -13,7 +13,8 @@
     key: new URLSearchParams(window.location.search).get("key") || "",
     width: 160,
     height: 300,
-    format: "iframe"
+    format: "iframe",
+    params: {}
   };
   var invokeScript = new URLSearchParams(window.location.search).get("invoke") || "";
   if (invokeScript) {
